@@ -1,3 +1,7 @@
+# Ignoruj samotny excelovy soubor, aby se nekdo z CC neposral
+Report.xlsm
+# ======
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
