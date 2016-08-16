@@ -1,5 +1,9 @@
-# Ignoruj samotny excelovy soubor, aby se nekdo z CC neposral
+# Ignoruj puvodni excelove soubory, aby se nekomu neudelalo slabo...
+
 Report.xlsm
+
+CZ_MiBi_denik_results.xlsm
+CZ_MiBi_denik_stats.xlsm
 # ======
 
 # Windows image file caches
